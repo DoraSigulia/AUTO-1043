@@ -16,7 +16,7 @@ public class GeneratedTests extends TestBase {
     @Description("Soon to be implemented by you (or QA.GURU engineers)")
     @DisplayName("Open page application")
     void generatedTest() {
-        step("Open 'https://firecode.ru/'", () -> {
+        step("Open ''", () -> {
             step("// todo: just add selenium action");
         });
 
